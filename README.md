@@ -43,6 +43,6 @@ We welcome contributions from the community. If you'd like to contribute, please
 
 - Project homepage: https://github.com/usmanX191/REACT-NATIVE-HOUSE-MOVERS-APP
 - Repository: https://github.com/usmanX191/REACT-NATIVE-HOUSE-MOVERS-APP
-  - In case of sensitive bugs like security vulnerabilities, please contact [usmanmehmnood770@gmail.com] directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!
+- In case of sensitive bugs like security vulnerabilities, please contact [usmanmehmnood770@gmail.com] directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!
 
 
