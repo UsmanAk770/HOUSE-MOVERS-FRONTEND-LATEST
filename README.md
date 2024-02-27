@@ -26,14 +26,14 @@ To ensure the satisfaction of our users, we leverage NLP (Natural Language Proce
 ## Installation
 
 To get started with the House Movers app, clone the repository and install the dependencies:
-git clone https://github.com/usmanX191/REACT-NATIVE-HOUSE-MOVERS-APP.git
-cd REACT-NATIVE-HOUSE-MOVERS-APP
-npm install
+- `git clone https://github.com/usmanX191/REACT-NATIVE-HOUSE-MOVERS-APP.git`
+- `cd REACT-NATIVE-HOUSE-MOVERS-APP`
+- `npm install`
 
 ## Usage
 
 Once the installation is complete, you can run the app locally:
-expo start
+- `expo start`
 
 ## Contributions
 
